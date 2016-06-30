@@ -9,7 +9,7 @@
   "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
   "license": "MIT",
   "dependencies": {
-    "cli-color": "=1.1.0"
+    "ansi-256-colors": "1.1.0"
   },
   "devDependencies": {
     "eslint": "=2.6.0"
